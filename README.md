@@ -1,6 +1,6 @@
 # @coveo/push-api-client.js
 
-Coveo Push API client - Matt
+Coveo Push API client - Matt 2
 
 ## Installation
 
